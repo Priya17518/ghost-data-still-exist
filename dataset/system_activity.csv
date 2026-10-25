@@ -1,0 +1,130 @@
+activity_id,timestamp,system_id,resource_id,activity_type,status,user_id,details
+act_0002_sync,2026-04-01T13:37:00Z,kafka_stream_sync,user_events_stream_usr_ef717ad03f23,REPLICATION_SYNC,ACTIVE,usr_ef717ad03f23,Streaming sync job active for liam.brown768@datashield.dev
+act_0003_restore,2026-04-01T14:38:00Z,backup_s3_glacier,restore_snapshot_usr_83c40ce2a1cb,BACKUP_RESTORE,ACTIVE,usr_83c40ce2a1cb,Cold restore job pending recovery for jordan.smith233@example.com
+act_0006_sync,2026-04-01T21:06:00Z,kafka_stream_sync,user_events_stream_usr_bc51f834341a,REPLICATION_SYNC,ACTIVE,usr_bc51f834341a,Streaming sync job active for dana.rodriguez230@corpmail.io
+act_0015_restore,2026-04-02T14:36:00Z,backup_s3_glacier,restore_snapshot_usr_2eeb5ea75a7e,BACKUP_RESTORE,ACTIVE,usr_2eeb5ea75a7e,Cold restore job pending recovery for hiroshi.hernandez284@privacyfirst.org
+act_0019_restore,2026-04-02T22:40:00Z,backup_s3_glacier,restore_snapshot_usr_0a9e3e26cbf6,BACKUP_RESTORE,ACTIVE,usr_0a9e3e26cbf6,Cold restore job pending recovery for dakota.williams58@apexcloud.internal
+act_0022_sync,2026-04-03T05:18:00Z,kafka_stream_sync,user_events_stream_usr_41dd5a831184,REPLICATION_SYNC,ACTIVE,usr_41dd5a831184,Streaming sync job active for mei.rodriguez666@apexcloud.internal
+act_0023_restore,2026-04-03T06:32:00Z,backup_s3_glacier,restore_snapshot_usr_53670159baf2,BACKUP_RESTORE,ACTIVE,usr_53670159baf2,Cold restore job pending recovery for riley.anderson986@example.com
+act_0026_sync,2026-04-03T13:07:00Z,kafka_stream_sync,user_events_stream_usr_02d8b059fc4a,REPLICATION_SYNC,ACTIVE,usr_02d8b059fc4a,Streaming sync job active for lars.smith341@inboxpulse.co
+act_0035_restore,2026-04-04T06:15:00Z,backup_s3_glacier,restore_snapshot_usr_21c1e8f9a1cd,BACKUP_RESTORE,ACTIVE,usr_21c1e8f9a1cd,Cold restore job pending recovery for marcus.thomas562@corpmail.io
+act_0039_restore,2026-04-04T14:29:00Z,backup_s3_glacier,restore_snapshot_usr_c10c7237ecd1,BACKUP_RESTORE,ACTIVE,usr_c10c7237ecd1,Cold restore job pending recovery for skyler.anderson442@corpmail.io
+act_0042_sync,2026-04-04T21:10:00Z,kafka_stream_sync,user_events_stream_usr_e789b492eb2a,REPLICATION_SYNC,ACTIVE,usr_e789b492eb2a,Streaming sync job active for dakota.thomas895@corpmail.io
+act_0043_restore,2026-04-04T22:27:00Z,backup_s3_glacier,restore_snapshot_usr_6cc7402d5988,BACKUP_RESTORE,ACTIVE,usr_6cc7402d5988,Cold restore job pending recovery for alex.gonzalez958@techvault.net
+act_0046_sync,2026-04-05T05:03:00Z,kafka_stream_sync,user_events_stream_usr_983bb96d77ea,REPLICATION_SYNC,ACTIVE,usr_983bb96d77ea,Streaming sync job active for peyton.thomas951@inboxpulse.co
+act_0055_restore,2026-04-05T22:08:00Z,backup_s3_glacier,restore_snapshot_usr_452e80dfd8a9,BACKUP_RESTORE,ACTIVE,usr_452e80dfd8a9,Cold restore job pending recovery for alex.perez577@apexcloud.internal
+act_0059_restore,2026-04-06T06:10:00Z,backup_s3_glacier,restore_snapshot_usr_0b2beceab7d8,BACKUP_RESTORE,ACTIVE,usr_0b2beceab7d8,Cold restore job pending recovery for alex.hernandez143@apexcloud.internal
+act_0062_sync,2026-04-06T13:13:00Z,kafka_stream_sync,user_events_stream_usr_e127eb94deda,REPLICATION_SYNC,ACTIVE,usr_e127eb94deda,Streaming sync job active for jordan.martinez930@techvault.net
+act_0063_restore,2026-04-06T14:39:00Z,backup_s3_glacier,restore_snapshot_usr_aabf37819fef,BACKUP_RESTORE,ACTIVE,usr_aabf37819fef,Cold restore job pending recovery for marcus.brown808@techvault.net
+act_0066_sync,2026-04-06T21:14:00Z,kafka_stream_sync,user_events_stream_usr_7d22875c7860,REPLICATION_SYNC,ACTIVE,usr_7d22875c7860,Streaming sync job active for hiroshi.thompson401@example.com
+act_0075_restore,2026-04-07T14:44:00Z,backup_s3_glacier,restore_snapshot_usr_8c81ea94d828,BACKUP_RESTORE,ACTIVE,usr_8c81ea94d828,Cold restore job pending recovery for jamie.martinez428@datashield.dev
+act_0079_restore,2026-04-07T22:42:00Z,backup_s3_glacier,restore_snapshot_usr_71a5a7721843,BACKUP_RESTORE,ACTIVE,usr_71a5a7721843,Cold restore job pending recovery for jesse.perez533@corpmail.io
+act_0082_sync,2026-04-08T05:29:00Z,kafka_stream_sync,user_events_stream_usr_5d6ea21983fe,REPLICATION_SYNC,ACTIVE,usr_5d6ea21983fe,Streaming sync job active for chris.thomas880@inboxpulse.co
+act_0083_restore,2026-04-08T06:31:00Z,backup_s3_glacier,restore_snapshot_usr_5a8e44bd4f96,BACKUP_RESTORE,ACTIVE,usr_5a8e44bd4f96,Cold restore job pending recovery for fatima.lee209@inboxpulse.co
+act_0086_sync,2026-04-08T13:29:00Z,kafka_stream_sync,user_events_stream_usr_b7833746baf5,REPLICATION_SYNC,ACTIVE,usr_b7833746baf5,Streaming sync job active for skyler.davis134@apexcloud.internal
+act_0095_restore,2026-04-09T06:26:00Z,backup_s3_glacier,restore_snapshot_usr_2af20e039ec7,BACKUP_RESTORE,ACTIVE,usr_2af20e039ec7,Cold restore job pending recovery for dakota.smith315@techvault.net
+act_0099_restore,2026-04-09T14:05:00Z,backup_s3_glacier,restore_snapshot_usr_5c289af39514,BACKUP_RESTORE,ACTIVE,usr_5c289af39514,Cold restore job pending recovery for alex.robinson616@privacyfirst.org
+act_0102_sync,2026-04-09T21:03:00Z,kafka_stream_sync,user_events_stream_usr_7c42a6ec8a40,REPLICATION_SYNC,ACTIVE,usr_7c42a6ec8a40,Streaming sync job active for pat.clark491@example.com
+act_0103_restore,2026-04-09T22:48:00Z,backup_s3_glacier,restore_snapshot_usr_b497a276d89e,BACKUP_RESTORE,ACTIVE,usr_b497a276d89e,Cold restore job pending recovery for chris.lee809@example.com
+act_0106_sync,2026-04-10T05:49:00Z,kafka_stream_sync,user_events_stream_usr_3600ca0e9ac5,REPLICATION_SYNC,ACTIVE,usr_3600ca0e9ac5,Streaming sync job active for mei.lopez630@corpmail.io
+act_0115_restore,2026-04-10T22:31:00Z,backup_s3_glacier,restore_snapshot_usr_283f12e8a74b,BACKUP_RESTORE,ACTIVE,usr_283f12e8a74b,Cold restore job pending recovery for peyton.martin398@datashield.dev
+act_0119_restore,2026-04-11T06:25:00Z,backup_s3_glacier,restore_snapshot_usr_fd8ef15d2334,BACKUP_RESTORE,ACTIVE,usr_fd8ef15d2334,Cold restore job pending recovery for jesse.sanchez105@example.com
+act_0122_sync,2026-04-11T13:07:00Z,kafka_stream_sync,user_events_stream_usr_b85ab7bd9955,REPLICATION_SYNC,ACTIVE,usr_b85ab7bd9955,Streaming sync job active for pat.davis748@example.com
+act_0123_restore,2026-04-11T14:17:00Z,backup_s3_glacier,restore_snapshot_usr_14b27ec4daf8,BACKUP_RESTORE,ACTIVE,usr_14b27ec4daf8,Cold restore job pending recovery for mei.thompson206@corpmail.io
+act_0126_sync,2026-04-11T21:06:00Z,kafka_stream_sync,user_events_stream_usr_c96b1f4d3e1c,REPLICATION_SYNC,ACTIVE,usr_c96b1f4d3e1c,Streaming sync job active for jordan.moore724@techvault.net
+act_0135_restore,2026-04-12T14:44:00Z,backup_s3_glacier,restore_snapshot_usr_104a04c96674,BACKUP_RESTORE,ACTIVE,usr_104a04c96674,Cold restore job pending recovery for robin.johnson305@corpmail.io
+act_0139_restore,2026-04-12T22:32:00Z,backup_s3_glacier,restore_snapshot_usr_bd7d7d9eccdd,BACKUP_RESTORE,ACTIVE,usr_bd7d7d9eccdd,Cold restore job pending recovery for jesse.thompson726@techvault.net
+act_0142_sync,2026-04-13T05:33:00Z,kafka_stream_sync,user_events_stream_usr_b628c0d62079,REPLICATION_SYNC,ACTIVE,usr_b628c0d62079,Streaming sync job active for peyton.johnson784@apexcloud.internal
+act_0143_restore,2026-04-13T06:05:00Z,backup_s3_glacier,restore_snapshot_usr_709c5c4c85c4,BACKUP_RESTORE,ACTIVE,usr_709c5c4c85c4,Cold restore job pending recovery for lars.rodriguez609@corpmail.io
+act_0146_sync,2026-04-13T13:07:00Z,kafka_stream_sync,user_events_stream_usr_26791ca74407,REPLICATION_SYNC,ACTIVE,usr_26791ca74407,Streaming sync job active for jordan.anderson332@example.com
+act_0155_restore,2026-04-14T06:50:00Z,backup_s3_glacier,restore_snapshot_usr_fb7cb5de4e6f,BACKUP_RESTORE,ACTIVE,usr_fb7cb5de4e6f,Cold restore job pending recovery for mateo.williams801@techvault.net
+act_0159_restore,2026-04-14T14:02:00Z,backup_s3_glacier,restore_snapshot_usr_8a2d65a9e405,BACKUP_RESTORE,ACTIVE,usr_8a2d65a9e405,Cold restore job pending recovery for peyton.gonzalez886@corpmail.io
+act_0162_sync,2026-04-14T21:26:00Z,kafka_stream_sync,user_events_stream_usr_8b207552a17a,REPLICATION_SYNC,ACTIVE,usr_8b207552a17a,Streaming sync job active for morgan.taylor25@privacyfirst.org
+act_0163_restore,2026-04-14T22:41:00Z,backup_s3_glacier,restore_snapshot_usr_8dd83741d0ce,BACKUP_RESTORE,ACTIVE,usr_8dd83741d0ce,Cold restore job pending recovery for taylor.thomas281@apexcloud.internal
+act_0166_sync,2026-04-15T05:28:00Z,kafka_stream_sync,user_events_stream_usr_719bc73eee2a,REPLICATION_SYNC,ACTIVE,usr_719bc73eee2a,Streaming sync job active for chris.white454@example.com
+act_0175_restore,2026-04-15T22:38:00Z,backup_s3_glacier,restore_snapshot_usr_6533f78fb98a,BACKUP_RESTORE,ACTIVE,usr_6533f78fb98a,Cold restore job pending recovery for pat.smith895@inboxpulse.co
+act_0179_restore,2026-04-16T06:47:00Z,backup_s3_glacier,restore_snapshot_usr_25103833c8ff,BACKUP_RESTORE,ACTIVE,usr_25103833c8ff,Cold restore job pending recovery for liam.jones941@example.com
+act_0182_sync,2026-04-16T13:48:00Z,kafka_stream_sync,user_events_stream_usr_c2421e5ae989,REPLICATION_SYNC,ACTIVE,usr_c2421e5ae989,Streaming sync job active for hiroshi.brown996@privacyfirst.org
+act_0183_restore,2026-04-16T14:05:00Z,backup_s3_glacier,restore_snapshot_usr_a13252a45527,BACKUP_RESTORE,ACTIVE,usr_a13252a45527,Cold restore job pending recovery for mateo.perez700@datashield.dev
+act_0186_sync,2026-04-16T21:39:00Z,kafka_stream_sync,user_events_stream_usr_aa4ff15839d6,REPLICATION_SYNC,ACTIVE,usr_aa4ff15839d6,Streaming sync job active for dakota.smith915@inboxpulse.co
+act_0195_restore,2026-04-17T14:04:00Z,backup_s3_glacier,restore_snapshot_usr_b056941a97a8,BACKUP_RESTORE,ACTIVE,usr_b056941a97a8,Cold restore job pending recovery for jordan.sanchez259@techvault.net
+act_0199_restore,2026-04-17T22:01:00Z,backup_s3_glacier,restore_snapshot_usr_7acef0ee4e8c,BACKUP_RESTORE,ACTIVE,usr_7acef0ee4e8c,Cold restore job pending recovery for kim.sanchez253@apexcloud.internal
+act_0202_sync,2026-04-18T05:46:00Z,kafka_stream_sync,user_events_stream_usr_902536332b0f,REPLICATION_SYNC,ACTIVE,usr_902536332b0f,Streaming sync job active for jesse.taylor978@corpmail.io
+act_0203_restore,2026-04-18T06:30:00Z,backup_s3_glacier,restore_snapshot_usr_0b78fd309647,BACKUP_RESTORE,ACTIVE,usr_0b78fd309647,Cold restore job pending recovery for robin.anderson997@datashield.dev
+act_0206_sync,2026-04-18T13:29:00Z,kafka_stream_sync,user_events_stream_usr_12c21d920c12,REPLICATION_SYNC,ACTIVE,usr_12c21d920c12,Streaming sync job active for kavita.hernandez621@privacyfirst.org
+act_0215_restore,2026-04-19T06:14:00Z,backup_s3_glacier,restore_snapshot_usr_bc324b14ab80,BACKUP_RESTORE,ACTIVE,usr_bc324b14ab80,Cold restore job pending recovery for peyton.taylor168@corpmail.io
+act_0219_restore,2026-04-19T14:36:00Z,backup_s3_glacier,restore_snapshot_usr_1af5c6b0c1d6,BACKUP_RESTORE,ACTIVE,usr_1af5c6b0c1d6,Cold restore job pending recovery for lars.hernandez16@techvault.net
+act_0222_sync,2026-04-19T21:03:00Z,kafka_stream_sync,user_events_stream_usr_15effc505805,REPLICATION_SYNC,ACTIVE,usr_15effc505805,Streaming sync job active for liam.hernandez974@apexcloud.internal
+act_0223_restore,2026-04-19T22:17:00Z,backup_s3_glacier,restore_snapshot_usr_a588adc7528d,BACKUP_RESTORE,ACTIVE,usr_a588adc7528d,Cold restore job pending recovery for riley.harris60@inboxpulse.co
+act_0226_sync,2026-04-20T05:38:00Z,kafka_stream_sync,user_events_stream_usr_315c2d2392f6,REPLICATION_SYNC,ACTIVE,usr_315c2d2392f6,Streaming sync job active for jamie.perez56@techvault.net
+act_0235_restore,2026-04-20T22:33:00Z,backup_s3_glacier,restore_snapshot_usr_2def71fbfd95,BACKUP_RESTORE,ACTIVE,usr_2def71fbfd95,Cold restore job pending recovery for mei.garcia532@example.com
+act_0239_restore,2026-04-21T06:40:00Z,backup_s3_glacier,restore_snapshot_usr_e7889dc9f6b9,BACKUP_RESTORE,ACTIVE,usr_e7889dc9f6b9,Cold restore job pending recovery for marcus.robinson668@inboxpulse.co
+act_0242_sync,2026-04-21T13:41:00Z,kafka_stream_sync,user_events_stream_usr_e793c2a01e4c,REPLICATION_SYNC,ACTIVE,usr_e793c2a01e4c,Streaming sync job active for jordan.johnson861@techvault.net
+act_0243_restore,2026-04-21T14:28:00Z,backup_s3_glacier,restore_snapshot_usr_9b0fd9a653eb,BACKUP_RESTORE,ACTIVE,usr_9b0fd9a653eb,Cold restore job pending recovery for logan.martin403@inboxpulse.co
+act_0246_sync,2026-04-21T21:33:00Z,kafka_stream_sync,user_events_stream_usr_053cbb0c95b2,REPLICATION_SYNC,ACTIVE,usr_053cbb0c95b2,Streaming sync job active for jordan.davis458@datashield.dev
+act_0255_restore,2026-04-22T14:47:00Z,backup_s3_glacier,restore_snapshot_usr_34e19e28cb49,BACKUP_RESTORE,ACTIVE,usr_34e19e28cb49,Cold restore job pending recovery for mateo.sanchez529@example.com
+act_0259_restore,2026-04-22T22:15:00Z,backup_s3_glacier,restore_snapshot_usr_be7c7cf92992,BACKUP_RESTORE,ACTIVE,usr_be7c7cf92992,Cold restore job pending recovery for mei.white469@apexcloud.internal
+act_0262_sync,2026-04-23T05:16:00Z,kafka_stream_sync,user_events_stream_usr_86311e4f3568,REPLICATION_SYNC,ACTIVE,usr_86311e4f3568,Streaming sync job active for cameron.garcia214@apexcloud.internal
+act_0263_restore,2026-04-23T06:45:00Z,backup_s3_glacier,restore_snapshot_usr_38418e5ec188,BACKUP_RESTORE,ACTIVE,usr_38418e5ec188,Cold restore job pending recovery for elena.thomas390@apexcloud.internal
+act_0266_sync,2026-04-23T13:32:00Z,kafka_stream_sync,user_events_stream_usr_cb6e61686c79,REPLICATION_SYNC,ACTIVE,usr_cb6e61686c79,Streaming sync job active for fatima.lopez434@example.com
+act_0275_restore,2026-04-24T06:33:00Z,backup_s3_glacier,restore_snapshot_usr_eb9c3a781263,BACKUP_RESTORE,ACTIVE,usr_eb9c3a781263,Cold restore job pending recovery for chris.jackson201@privacyfirst.org
+act_0279_restore,2026-04-24T14:49:00Z,backup_s3_glacier,restore_snapshot_usr_af5cf386191d,BACKUP_RESTORE,ACTIVE,usr_af5cf386191d,Cold restore job pending recovery for casey.johnson569@techvault.net
+act_0282_sync,2026-04-24T21:02:00Z,kafka_stream_sync,user_events_stream_usr_d04dfe4651da,REPLICATION_SYNC,ACTIVE,usr_d04dfe4651da,Streaming sync job active for jamie.gonzalez566@apexcloud.internal
+act_0283_restore,2026-04-24T22:17:00Z,backup_s3_glacier,restore_snapshot_usr_ec9e0c0a3678,BACKUP_RESTORE,ACTIVE,usr_ec9e0c0a3678,Cold restore job pending recovery for robin.lopez809@apexcloud.internal
+act_0286_sync,2026-04-25T05:34:00Z,kafka_stream_sync,user_events_stream_usr_ccb98dfc5b9d,REPLICATION_SYNC,ACTIVE,usr_ccb98dfc5b9d,Streaming sync job active for liam.wilson450@example.com
+act_0295_restore,2026-04-25T22:33:00Z,backup_s3_glacier,restore_snapshot_usr_f509eab45b27,BACKUP_RESTORE,ACTIVE,usr_f509eab45b27,Cold restore job pending recovery for chris.brown763@example.com
+act_0299_restore,2026-04-26T06:18:00Z,backup_s3_glacier,restore_snapshot_usr_a3a74f1162c3,BACKUP_RESTORE,ACTIVE,usr_a3a74f1162c3,Cold restore job pending recovery for marcus.lopez76@datashield.dev
+act_0302_sync,2026-04-26T13:35:00Z,kafka_stream_sync,user_events_stream_usr_da472deafee4,REPLICATION_SYNC,ACTIVE,usr_da472deafee4,Streaming sync job active for alex.lopez596@inboxpulse.co
+act_0303_restore,2026-04-26T14:45:00Z,backup_s3_glacier,restore_snapshot_usr_c6c5fd5e8863,BACKUP_RESTORE,ACTIVE,usr_c6c5fd5e8863,Cold restore job pending recovery for logan.lewis77@example.com
+act_0306_sync,2026-04-26T21:49:00Z,kafka_stream_sync,user_events_stream_usr_0eb0a202bc68,REPLICATION_SYNC,ACTIVE,usr_0eb0a202bc68,Streaming sync job active for fatima.clark574@apexcloud.internal
+act_0315_restore,2026-04-27T14:30:00Z,backup_s3_glacier,restore_snapshot_usr_996454228a77,BACKUP_RESTORE,ACTIVE,usr_996454228a77,Cold restore job pending recovery for taylor.thompson171@example.com
+act_0319_restore,2026-04-27T22:10:00Z,backup_s3_glacier,restore_snapshot_usr_3ca49125fcf4,BACKUP_RESTORE,ACTIVE,usr_3ca49125fcf4,Cold restore job pending recovery for robin.gonzalez640@apexcloud.internal
+act_0322_sync,2026-04-28T05:03:00Z,kafka_stream_sync,user_events_stream_usr_be7560befd31,REPLICATION_SYNC,ACTIVE,usr_be7560befd31,Streaming sync job active for jesse.davis607@corpmail.io
+act_0323_restore,2026-04-28T06:18:00Z,backup_s3_glacier,restore_snapshot_usr_ae58e29b1964,BACKUP_RESTORE,ACTIVE,usr_ae58e29b1964,Cold restore job pending recovery for dakota.martin679@apexcloud.internal
+act_0326_sync,2026-04-28T13:32:00Z,kafka_stream_sync,user_events_stream_usr_17e5e9a21c96,REPLICATION_SYNC,ACTIVE,usr_17e5e9a21c96,Streaming sync job active for sam.lopez305@inboxpulse.co
+act_0335_restore,2026-04-29T06:46:00Z,backup_s3_glacier,restore_snapshot_usr_2e22a728f548,BACKUP_RESTORE,ACTIVE,usr_2e22a728f548,Cold restore job pending recovery for logan.thomas681@techvault.net
+act_0339_restore,2026-04-29T14:33:00Z,backup_s3_glacier,restore_snapshot_usr_a68e20364df1,BACKUP_RESTORE,ACTIVE,usr_a68e20364df1,Cold restore job pending recovery for mateo.ramirez754@datashield.dev
+act_0342_sync,2026-04-29T21:35:00Z,kafka_stream_sync,user_events_stream_usr_3f2d785ce6ca,REPLICATION_SYNC,ACTIVE,usr_3f2d785ce6ca,Streaming sync job active for logan.thomas990@corpmail.io
+act_0343_restore,2026-04-29T22:44:00Z,backup_s3_glacier,restore_snapshot_usr_c071f8892356,BACKUP_RESTORE,ACTIVE,usr_c071f8892356,Cold restore job pending recovery for chris.martinez305@apexcloud.internal
+act_0346_sync,2026-04-30T05:22:00Z,kafka_stream_sync,user_events_stream_usr_47d10d2cd036,REPLICATION_SYNC,ACTIVE,usr_47d10d2cd036,Streaming sync job active for robin.johnson988@techvault.net
+act_0355_restore,2026-04-30T22:00:00Z,backup_s3_glacier,restore_snapshot_usr_260452d56b6e,BACKUP_RESTORE,ACTIVE,usr_260452d56b6e,Cold restore job pending recovery for riley.robinson995@datashield.dev
+act_0359_restore,2026-05-01T06:36:00Z,backup_s3_glacier,restore_snapshot_usr_94cfe8210e79,BACKUP_RESTORE,ACTIVE,usr_94cfe8210e79,Cold restore job pending recovery for kavita.garcia764@example.com
+act_0362_sync,2026-05-01T13:28:00Z,kafka_stream_sync,user_events_stream_usr_1794668b597a,REPLICATION_SYNC,ACTIVE,usr_1794668b597a,Streaming sync job active for lars.davis277@example.com
+act_0363_restore,2026-05-01T14:16:00Z,backup_s3_glacier,restore_snapshot_usr_3a68c1485f26,BACKUP_RESTORE,ACTIVE,usr_3a68c1485f26,Cold restore job pending recovery for dana.martinez750@inboxpulse.co
+act_0366_sync,2026-05-01T21:14:00Z,kafka_stream_sync,user_events_stream_usr_d67321c9f954,REPLICATION_SYNC,ACTIVE,usr_d67321c9f954,Streaming sync job active for elena.robinson386@techvault.net
+act_0375_restore,2026-05-02T14:37:00Z,backup_s3_glacier,restore_snapshot_usr_c579c44feb86,BACKUP_RESTORE,ACTIVE,usr_c579c44feb86,Cold restore job pending recovery for liam.smith270@privacyfirst.org
+act_0379_restore,2026-05-02T22:08:00Z,backup_s3_glacier,restore_snapshot_usr_479422a3f53b,BACKUP_RESTORE,ACTIVE,usr_479422a3f53b,Cold restore job pending recovery for mateo.robinson394@privacyfirst.org
+act_0382_sync,2026-05-03T05:29:00Z,kafka_stream_sync,user_events_stream_usr_b729e8af2b64,REPLICATION_SYNC,ACTIVE,usr_b729e8af2b64,Streaming sync job active for cameron.moore853@privacyfirst.org
+act_0383_restore,2026-05-03T06:02:00Z,backup_s3_glacier,restore_snapshot_usr_2dbbcc861c87,BACKUP_RESTORE,ACTIVE,usr_2dbbcc861c87,Cold restore job pending recovery for casey.rodriguez969@corpmail.io
+act_0386_sync,2026-05-03T13:08:00Z,kafka_stream_sync,user_events_stream_usr_1bc152a0d114,REPLICATION_SYNC,ACTIVE,usr_1bc152a0d114,Streaming sync job active for avery.anderson562@corpmail.io
+act_0395_restore,2026-05-04T06:46:00Z,backup_s3_glacier,restore_snapshot_usr_524ac7da977f,BACKUP_RESTORE,ACTIVE,usr_524ac7da977f,Cold restore job pending recovery for lars.anderson389@apexcloud.internal
+act_0399_restore,2026-05-04T14:25:00Z,backup_s3_glacier,restore_snapshot_usr_93343ddc474d,BACKUP_RESTORE,ACTIVE,usr_93343ddc474d,Cold restore job pending recovery for liam.harris946@privacyfirst.org
+act_0402_sync,2026-05-04T21:23:00Z,kafka_stream_sync,user_events_stream_usr_cbd6422222f9,REPLICATION_SYNC,ACTIVE,usr_cbd6422222f9,Streaming sync job active for hiroshi.white789@privacyfirst.org
+act_0403_restore,2026-05-04T22:01:00Z,backup_s3_glacier,restore_snapshot_usr_a43c54e36a6e,BACKUP_RESTORE,ACTIVE,usr_a43c54e36a6e,Cold restore job pending recovery for cameron.johnson894@inboxpulse.co
+act_0406_sync,2026-05-05T05:46:00Z,kafka_stream_sync,user_events_stream_usr_ff8f2ed52bfc,REPLICATION_SYNC,ACTIVE,usr_ff8f2ed52bfc,Streaming sync job active for elena.perez273@techvault.net
+act_0415_restore,2026-05-05T22:50:00Z,backup_s3_glacier,restore_snapshot_usr_1f4c24595e52,BACKUP_RESTORE,ACTIVE,usr_1f4c24595e52,Cold restore job pending recovery for sam.martin268@inboxpulse.co
+act_0419_restore,2026-05-06T06:36:00Z,backup_s3_glacier,restore_snapshot_usr_cf35c0a0d053,BACKUP_RESTORE,ACTIVE,usr_cf35c0a0d053,Cold restore job pending recovery for taylor.thomas454@apexcloud.internal
+act_0422_sync,2026-05-06T13:37:00Z,kafka_stream_sync,user_events_stream_usr_8ae521af3836,REPLICATION_SYNC,ACTIVE,usr_8ae521af3836,Streaming sync job active for riley.robinson332@apexcloud.internal
+act_0423_restore,2026-05-06T14:19:00Z,backup_s3_glacier,restore_snapshot_usr_ff00c7634a76,BACKUP_RESTORE,ACTIVE,usr_ff00c7634a76,Cold restore job pending recovery for mei.clark850@datashield.dev
+act_0426_sync,2026-05-06T21:38:00Z,kafka_stream_sync,user_events_stream_usr_0e5dee651ac4,REPLICATION_SYNC,ACTIVE,usr_0e5dee651ac4,Streaming sync job active for jordan.brown247@privacyfirst.org
+act_0435_restore,2026-05-07T14:36:00Z,backup_s3_glacier,restore_snapshot_usr_013ca3ee3d52,BACKUP_RESTORE,ACTIVE,usr_013ca3ee3d52,Cold restore job pending recovery for avery.harris752@example.com
+act_0439_restore,2026-05-07T22:19:00Z,backup_s3_glacier,restore_snapshot_usr_861cfd3cf8d8,BACKUP_RESTORE,ACTIVE,usr_861cfd3cf8d8,Cold restore job pending recovery for logan.martin478@corpmail.io
+act_0442_sync,2026-05-08T05:25:00Z,kafka_stream_sync,user_events_stream_usr_a2a617253852,REPLICATION_SYNC,ACTIVE,usr_a2a617253852,Streaming sync job active for logan.thompson500@corpmail.io
+act_0443_restore,2026-05-08T06:20:00Z,backup_s3_glacier,restore_snapshot_usr_36b1e5b6b4f5,BACKUP_RESTORE,ACTIVE,usr_36b1e5b6b4f5,Cold restore job pending recovery for robin.white658@datashield.dev
+act_0446_sync,2026-05-08T13:50:00Z,kafka_stream_sync,user_events_stream_usr_13e2f2a3eac3,REPLICATION_SYNC,ACTIVE,usr_13e2f2a3eac3,Streaming sync job active for kavita.miller826@privacyfirst.org
+act_0455_restore,2026-05-09T06:07:00Z,backup_s3_glacier,restore_snapshot_usr_b54381a98b37,BACKUP_RESTORE,ACTIVE,usr_b54381a98b37,Cold restore job pending recovery for alex.thomas312@example.com
+act_0459_restore,2026-05-09T14:33:00Z,backup_s3_glacier,restore_snapshot_usr_aae5ff1ab67e,BACKUP_RESTORE,ACTIVE,usr_aae5ff1ab67e,Cold restore job pending recovery for marcus.sanchez962@corpmail.io
+act_0462_sync,2026-05-09T21:24:00Z,kafka_stream_sync,user_events_stream_usr_967b8a2a42b6,REPLICATION_SYNC,ACTIVE,usr_967b8a2a42b6,Streaming sync job active for liam.martin470@corpmail.io
+act_0463_restore,2026-05-09T22:36:00Z,backup_s3_glacier,restore_snapshot_usr_e0770edada54,BACKUP_RESTORE,ACTIVE,usr_e0770edada54,Cold restore job pending recovery for kavita.miller295@corpmail.io
+act_0466_sync,2026-05-10T05:22:00Z,kafka_stream_sync,user_events_stream_usr_d4866845a264,REPLICATION_SYNC,ACTIVE,usr_d4866845a264,Streaming sync job active for logan.gonzalez411@inboxpulse.co
+act_0475_restore,2026-05-10T22:18:00Z,backup_s3_glacier,restore_snapshot_usr_72d752ca20e8,BACKUP_RESTORE,ACTIVE,usr_72d752ca20e8,Cold restore job pending recovery for taylor.jackson824@example.com
+act_0479_restore,2026-05-11T06:19:00Z,backup_s3_glacier,restore_snapshot_usr_fe7edfe6cef8,BACKUP_RESTORE,ACTIVE,usr_fe7edfe6cef8,Cold restore job pending recovery for skyler.miller114@privacyfirst.org
+act_0482_sync,2026-05-11T13:03:00Z,kafka_stream_sync,user_events_stream_usr_85f6cd1b44b0,REPLICATION_SYNC,ACTIVE,usr_85f6cd1b44b0,Streaming sync job active for riley.martin813@corpmail.io
+act_0483_restore,2026-05-11T14:45:00Z,backup_s3_glacier,restore_snapshot_usr_da21512b3b41,BACKUP_RESTORE,ACTIVE,usr_da21512b3b41,Cold restore job pending recovery for skyler.rodriguez561@inboxpulse.co
+act_0486_sync,2026-05-11T21:31:00Z,kafka_stream_sync,user_events_stream_usr_acac6b7f6288,REPLICATION_SYNC,ACTIVE,usr_acac6b7f6288,Streaming sync job active for chris.jones339@datashield.dev
+act_0495_restore,2026-05-12T14:44:00Z,backup_s3_glacier,restore_snapshot_usr_68e5ff7ba35d,BACKUP_RESTORE,ACTIVE,usr_68e5ff7ba35d,Cold restore job pending recovery for jesse.anderson991@example.com
+act_0499_restore,2026-05-12T22:08:00Z,backup_s3_glacier,restore_snapshot_usr_096cbf141ced,BACKUP_RESTORE,ACTIVE,usr_096cbf141ced,Cold restore job pending recovery for kavita.brown228@example.com
+act_0502_sync,2026-05-13T05:24:00Z,kafka_stream_sync,user_events_stream_usr_606817ed7e8b,REPLICATION_SYNC,ACTIVE,usr_606817ed7e8b,Streaming sync job active for morgan.hernandez912@techvault.net
+act_0503_restore,2026-05-13T06:39:00Z,backup_s3_glacier,restore_snapshot_usr_1770696fcd3d,BACKUP_RESTORE,ACTIVE,usr_1770696fcd3d,Cold restore job pending recovery for elena.perez80@corpmail.io
+act_0506_sync,2026-05-13T13:50:00Z,kafka_stream_sync,user_events_stream_usr_6f8e62f331a6,REPLICATION_SYNC,ACTIVE,usr_6f8e62f331a6,Streaming sync job active for peyton.white369@privacyfirst.org
+act_0515_restore,2026-05-14T06:17:00Z,backup_s3_glacier,restore_snapshot_usr_4cb913564146,BACKUP_RESTORE,ACTIVE,usr_4cb913564146,Cold restore job pending recovery for taylor.lee560@inboxpulse.co

@@ -1,0 +1,8 @@
+{
+  "name": "Ghost Data Deletion Audit Agent",
+  "description": "Deterministic Deletion Audit Agent and Compliance Verification Suite for GDPR/CCPA data erasure audits across distributed systems, secondary replicas, and backups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

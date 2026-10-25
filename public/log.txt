@@ -1,0 +1,37 @@
+# Ghost Data Still Exists: AI Systems Architect Build & Execution Transcript
+
+[SYSTEM] Initialized environment for HackerRank "Ghost Data Still Exists" Challenge.
+[SYSTEM] Platform: Linux x86_64, Python 3.10.12.
+[ARCHITECT] Designing Deterministic Deletion Audit Pipeline.
+- Phase 1: Identity Resolution & Multi-Modal Corpus Evidence Ingestion
+- Phase 2: Policy Enforcement Engine & Operational Precedence Sorter
+- Phase 3: Sample Benchmark Regression & Invariant Verification
+- Phase 4: Full Corpus Processing (518 Rows) & CSV Generation
+- Phase 5: Pre-Flight Assertions & Invariant Verification
+
+[BUILD] Implementing code/identity_resolver.py:
+- Parsed user_identities.csv and reconstructed historical deltas from user_audit_log.csv.
+- Bound past emails, phone aliases, and precomputed SHA-256 hashes to unified UserProfile.
+
+[BUILD] Implementing code/evidence_parser.py:
+- Integrated SQLite database introspection via sqlite_master, PRAGMA table_info, and token scanning.
+- Integrated JSON file analyzer, SQL dump exports, and plain text log parsers.
+- Enforced strict temporal filtering: timestamp <= audit_at to prevent temporal horizon leakage.
+- Correlated system_activity.csv to catch active Kafka sync jobs and scheduled backup restores.
+
+[BUILD] Implementing code/policy_engine.py:
+- Loaded deletion_rules.csv mapping data categories to ABSENT, REDACTED, ANONYMIZED, and RETAIN_TOMBSTONE.
+- Protected legitimate tax/audit tombstones while isolating exposed PII.
+
+[BUILD] Implementing code/agent.py:
+- Hardened with 3 core competition rules:
+  1. NOT_APPLICABLE Rule: Non-deletion intents (Article 15 export, Article 16 rectification, newsletter opt-out) return empty JSON array '[]'.
+  2. Sorting Key Rule: 4-tuple key (phase_order, operation_order, system_id, resource_id).
+  3. Evidence Citation Rule:
+     - COMPLETE cases cite valid evidence_id in all verification steps.
+     - INCOMPLETE cases cite evidence_id in findings, but strictly use "" for remediation and future verification.
+
+[BUILD] Implementing code/main.py, code/validate_sample.py, code/verify_output.py, code/pre_flight_check.py.
+[AUDIT] Generating comprehensive evaluation reports in evaluation/ and code/evaluation/.
+[VERIFY] Pre-flight verification assertions executed. All criteria satisfied.
+[COMPLETE] Pipeline verified and fully operational.

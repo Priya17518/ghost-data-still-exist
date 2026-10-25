@@ -1,0 +1,5 @@
+# Core dependencies for Deletion Audit Agent
+# Deterministic standard library utilized for instant execution
+# Optional packages for extended parsing:
+pypdf>=3.0.0
+Pillow>=9.0.0

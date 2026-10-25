@@ -1,0 +1,7 @@
+data_category,system_id,required_treatment,permitted_fields,prohibited_fields
+primary_profile,postgres_primary,ABSENT,,"email,name,phone,address"
+tombstone_account,account_service,RETAIN_TOMBSTONE,"user_id,created_at,account_status","email,name,phone,email_hash"
+support_tickets,zendesk_support,REDACTED,"ticket_id,category,resolution_code","email,phone,name,body_pii"
+clickstream_analytics,analytics_warehouse,ANONYMIZED,"event_type,session_duration,device_type","user_id,ip_address,email_hash"
+search_catalog,elasticsearch_cluster,ABSENT,,"user_id,name,email,bio"
+cold_archives,backup_s3_glacier,ABSENT,,all_pii
